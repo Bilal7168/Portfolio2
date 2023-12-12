@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio2/static/css/main.299824ec.css",
+    "main.js": "/Portfolio2/static/js/main.e7e90bdc.js",
+    "static/js/787.f607e295.chunk.js": "/Portfolio2/static/js/787.f607e295.chunk.js",
+    "static/media/avanceon.jpg": "/Portfolio2/static/media/avanceon.6e068398dae843b41ae8.jpg",
+    "static/media/bilal.jpg": "/Portfolio2/static/media/bilal.82dee089593fc051fd8c.jpg",
+    "index.html": "/Portfolio2/index.html",
+    "main.299824ec.css.map": "/Portfolio2/static/css/main.299824ec.css.map",
+    "main.e7e90bdc.js.map": "/Portfolio2/static/js/main.e7e90bdc.js.map",
+    "787.f607e295.chunk.js.map": "/Portfolio2/static/js/787.f607e295.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.299824ec.css",
+    "static/js/main.e7e90bdc.js"
+  ]
+}
